@@ -24,7 +24,7 @@ public class UserServiceTests : IDisposable
 
     public void Dispose()
     {
-        _context.Dispose(); // Czyszczenie po testach
+        _context.Dispose();
     }
 
     [Fact]

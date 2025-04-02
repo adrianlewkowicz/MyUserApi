@@ -1,0 +1,12 @@
+# Składnia .gitignore dla .NET/VisualStudio:
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+*.log
+*.db
+.vs/
